@@ -19,9 +19,7 @@ The HTML/JavaScript version is a web-based game, and the C# version is a console
 - Option to play the game again.
 
 ## Screenshots
-
-
-## Usage
+<img width="346" alt="Game" src="https://github.com/akshana1/NumberGuesser/assets/148309348/1f27a195-f1b0-4c74-ad3c-b5d770282a7c">
 
 ### HTML/JavaScript Version
 
@@ -47,10 +45,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Akshana Mohun](https://github.com/akshana1)
 
 ## Acknowledgments
 
-- This project was created for educational purposes and inspired by online coding tutorials and courses.
+- This project was created for training purposes and inspired by online coding tutorials and courses.
 
 Feel free to contribute, report issues, or provide feedback. Enjoy the game!
