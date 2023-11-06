@@ -20,6 +20,9 @@ The HTML/JavaScript version is a web-based game, and the C# version is a console
 
 ## Screenshots
 <img width="346" alt="Game" src="https://github.com/akshana1/NumberGuesser/assets/148309348/1f27a195-f1b0-4c74-ad3c-b5d770282a7c">
+<img width="279" alt="Wrong guesser" src="https://github.com/akshana1/NumberGuesser/assets/148309348/c34a3958-3e65-4d3d-ba32-e78a7539f2a1">
+<img width="346" alt="Game" src="https://github.com/akshana1/NumberGuesser/assets/148309348/3530b254-33a8-488b-8ef4-6c665be7df9c">
+
 
 ### HTML/JavaScript Version
 
@@ -38,10 +41,6 @@ The HTML/JavaScript version is a web-based game, and the C# version is a console
 To get started with the HTML/JavaScript version, simply open the `index.html` file in your web browser.
 
 For the C# version, you will need a C# development environment (e.g., Visual Studio) to compile and run the `Program.cs` file.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
